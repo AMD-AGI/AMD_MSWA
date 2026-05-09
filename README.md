@@ -1,4 +1,4 @@
-# MSWA: Refining Local Attention with Multi-ScaleWindow Attention
+# MSWA: Refining Local Attention with Multi-Scale Window Attention
 
 **Yixing Xu, Shivank Nag, Dong Li, Lu Tian, Emad Barsoum** | [Paper](https://arxiv.org/abs/2501.01039)
 
